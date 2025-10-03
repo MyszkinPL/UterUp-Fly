@@ -4,7 +4,8 @@
 // @version      6.0-PRO
 // @description  Флай для UterUp.ru
 // @author       Myszkin
-// @match        *://*/*
+// @match        *://uterup.ru/*
+// @match        *://www.uterup.ru/*
 // @run-at       document-start
 // @grant        none
 // ==/UserScript==
